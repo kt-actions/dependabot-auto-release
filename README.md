@@ -1,3 +1,3 @@
-# template
+# dependabot-auto-release
 
-Action template repository
+Merge changeset release PRs automatically if only dependabot changeset files are present and the highest version is patch
